@@ -1,6 +1,5 @@
 # webサーバーのサンプルソース殴った.md  
-![image](https://user-images.githubusercontent.com/98327302/150793754-282b0645-b7ce-4422-bf8a-fa910197e11f.png)  
-  
+新しいアカウント作ったので、目新しいソースを殴ってみた。
 ## ソース
 '''js
 // httpモジュールを読み込み、インスタンスを生成
@@ -21,10 +20,7 @@ http.createServer(function (req, res) {
   
 ## インプリタに投げる
 ![image](https://user-images.githubusercontent.com/98327302/150794099-550a1185-8ccd-449b-a200-6da5d501c7b3.png)  
-  
-## コンソールの状態
-![image](https://user-images.githubusercontent.com/98327302/150793754-282b0645-b7ce-4422-bf8a-fa910197e11f.png)  
-  
+
 ## 対象のサイトにアクセス
 ![image](https://user-images.githubusercontent.com/98327302/150793754-282b0645-b7ce-4422-bf8a-fa910197e11f.png)  
 
