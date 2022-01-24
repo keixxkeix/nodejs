@@ -1,7 +1,7 @@
 # node.jsnのwebサーバーのサンプルソース殴ってみた。
 新しいアカウント作ったので、目新しいソースを殴ってみた。
 ## ソース
-'''js
+```js
 // httpモジュールを読み込み、インスタンスを生成
 var http = require('http');
 
@@ -15,7 +15,7 @@ http.createServer(function (req, res) {
     res.end('Hello World\n');
 
 }).listen(1337, '127.0.0.1'); // 127.0.0.1の1337番ポートで待機
-'''
+```
 参考:https://engineer.recruit-lifestyle.co.jp/techblog/2015-06-22-node1/  
   
 ## インプリタに投げる
